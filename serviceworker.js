@@ -2,7 +2,7 @@ const cacheName = 'cache-students';
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(cacheName).then(function(cache) {
-      return cache.addAll(['/students/', '/students/index.html', '/students/mystyle.css', '/students/members.son']);
+      return cache.addAll(['/students/', '/students/index.html', '/students/mystyle.css', '/students/members.json', '/students/javascript', '/students/nina.png', '/students/olivia.png', '/students/morten.png']);
     })
   );
 });
