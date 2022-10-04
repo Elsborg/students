@@ -17,6 +17,12 @@
         "lastname" : "Johnson",
         "age" : 23,
         "image": "nina.png"
+    },
+    {
+        "firstname" : "Bobby",
+        "lastname" : "Olseb",
+        "age" : 44,
+        "image": "nina.png"
     }
 ]
 }
