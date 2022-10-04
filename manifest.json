@@ -3,6 +3,8 @@
     "short_name": "Student App",
     "description": "This app shows all students.",
     "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#d676ff",
     "icons": [
       {
         "src": "icon-192.png",
